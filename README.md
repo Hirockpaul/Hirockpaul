@@ -136,9 +136,45 @@ Open-source work on a Rust-based project.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hirockpaul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=79C0FF&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirockpaul&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="GitHub contribution streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hirockpaul&bg_color=0D1117&color=C9D1D9&line=79C0FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+## ◈ ACTIVITY GRAPH
+
+<img width="100%" src="https://ghchart.rshah.org/79C0FF/Hirockpaul" alt="Hirock's GitHub contribution calendar" />
+
+---
+
+## ◈ COMMIT ACTIVITY
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirockpaul/Hirockpaul/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirockpaul/Hirockpaul/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man animated GitHub contribution graph" src="https://raw.githubusercontent.com/Hirockpaul/Hirockpaul/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+<p align="center"><sub>Pac-Man is generated from my GitHub contributions and refreshed automatically every day.</sub></p>
 
 </div>
+
+---
+
+<div align="center">
+
+## ◈ PHILOSOPHY
+
+</div>
+
+<table>
+<tr>
+<td align="center">
+
+### Build with intent. Engineer with care.
+
+I believe good software is more than code that works. It should be understandable, reliable, maintainable, and genuinely useful.
+
+<sub>Stay curious · Keep it simple · Make it last</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
