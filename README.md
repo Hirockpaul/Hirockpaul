@@ -5,12 +5,11 @@
 
 ### Hi, I'm Hirock Jyoti Gogoi
 
-**Backend Developer · Software Engineer · Builder**
+**Software Engineer · AI Enthusiast · Builder**
 
-*I design and build reliable backend systems, developer tools, and AI-powered products.*
+*Building reliable systems with clean architecture, thoughtful engineering, and scalable solutions.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hirockpaul-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Hirockpaul)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hirockpaul&style=flat-square&color=64748b&label=PROFILE+VIEWS)](https://github.com/Hirockpaul)
+[GitHub](https://github.com/Hirockpaul) · [Projects](https://github.com/Hirockpaul?tab=repositories)
 
 </div>
 
@@ -38,12 +37,6 @@ My goal is simple: write thoughtful code, build reliable systems, and grow into 
 <td width="30%" valign="top" align="center">
 
 <img width="220" src="assets/about-cat.png" alt="White cat looking calmly at the camera" />
-
-### CONTACT
-
-India<br/>
-[hirockgogoi04@gmail.com](mailto:hirockgogoi04@gmail.com)<br/>
-[LinkedIn](https://www.linkedin.com/in/hirock-jyoti-gogoi/)
 
 </td>
 </tr>
