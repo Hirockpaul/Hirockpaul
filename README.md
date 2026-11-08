@@ -3,7 +3,7 @@
 
 <img width="100%" src="assets/about-banner.png" alt="Digital and human hands reaching toward each other" />
 
-### Hi 👋, I'm Hirock Jyoti Gogoi
+### Hi, I'm Hirock Jyoti Gogoi
 
 **Backend Developer · Software Engineer · Builder**
 
@@ -22,17 +22,32 @@
 
 </div>
 
-<img align="right" width="240" src="assets/about-cat.png" alt="White cat looking calmly at the camera" />
+<table>
+<tr>
+<td width="70%" valign="top">
 
-I'm a Computer Science and Engineering graduate from Assam, India, interested in the engineering behind dependable software.
+I'm a Computer Science and Engineering graduate from Assam, India, focused on backend development and building dependable software systems.
 
-- ⚙️ I build APIs, backend services, and developer-focused tools.
-- 🧠 Exploring AI agents, speech technology, and practical AI integrations.
-- 🗄️ Interested in database design, system architecture, and performance.
-- ☁️ Learning more about cloud infrastructure, Docker, and AWS.
-- 🌱 Always experimenting, improving, and contributing to open source.
+I enjoy designing APIs, developing backend services, and exploring the engineering behind scalable applications. I'm particularly interested in system architecture, database design, and building tools that solve practical problems.
 
-<br clear="right"/>
+Currently, I'm exploring **AI agents, real-time speech technology, TypeScript, PostgreSQL, Docker, and AWS**, while strengthening my understanding of data structures, algorithms, and software engineering fundamentals.
+
+My goal is simple: write thoughtful code, build reliable systems, and grow into a software engineer who creates technology that makes a lasting impact.
+
+</td>
+<td width="30%" valign="top" align="center">
+
+<img width="220" src="assets/about-cat.png" alt="White cat looking calmly at the camera" />
+
+### CONTACT
+
+India<br/>
+[hirockgogoi04@gmail.com](mailto:hirockgogoi04@gmail.com)<br/>
+[LinkedIn](https://www.linkedin.com/in/hirock-jyoti-gogoi/)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -113,75 +128,12 @@ Open-source work on a Rust-based project.
 
 ## ◈ TECH I WORK WITH
 
-**Languages & Runtime**
+**Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,nodejs,bun&theme=dark" alt="TypeScript JavaScript Python Rust Node.js Bun" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,nodejs,bun,express&theme=dark" alt="TypeScript JavaScript Python Rust Node.js Bun Express" />
 
-**Backend & Data**
+**Data, Cloud & Tools**
 
-<img src="https://skillicons.dev/icons?i=express,postgres,mongodb,mysql,redis,firebase&theme=dark" alt="Express PostgreSQL MongoDB MySQL Redis Firebase" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,react,tailwind&theme=dark" alt="Docker AWS Linux Git GitHub VS Code React Tailwind" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GITHUB / ACTIVITY
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hirockpaul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=79C0FF&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirockpaul&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="GitHub contribution streak" />
-
-## ◈ COMMIT ACTIVITY
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirockpaul/Hirockpaul/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirockpaul/Hirockpaul/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man animated GitHub contribution graph" src="https://raw.githubusercontent.com/Hirockpaul/Hirockpaul/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
-
-<p align="center"><sub>Pac-Man is generated from my GitHub contributions and refreshed automatically every day.</sub></p>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ PHILOSOPHY
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-### Build with intent. Engineer with care.
-
-I believe good software is more than code that works. It should be understandable, reliable, maintainable, and genuinely useful.
-
-<sub>Stay curious · Keep it simple · Make it last</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◈ LET'S CONNECT
-
-<a href="https://github.com/Hirockpaul"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/>
-
-*“Build things that are useful. Make them reliable. Keep learning.”*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:243449,55:111827,100:080B12" alt="" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,aws,linux,git,github,vscode,react,tailwind&perline=13&theme=dark" alt="PostgreSQL MongoDB MySQL Redis Firebase Docker AWS Linux Git GitHub VS Code React Tailwind" />
 
 </div>
