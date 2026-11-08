@@ -1,7 +1,7 @@
 <!-- Hirockpaul profile README -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B12,45:111827,100:243449&text=HIROCK&fontColor=E8EDF5&fontSize=68&fontAlignY=38&desc=BACKEND%20ENGINEER%20%E2%80%A2%20SOFTWARE%20BUILDER&descAlignY=60&descSize=14&animation=fadeIn" alt="Hirock — Backend Engineer" />
+<img width="100%" src="assets/hero-banner.jpg" alt="Hirock's monochrome abstract eye and fluid-art profile banner" />
 
 ### Hi 👋, I'm Hirock Jyoti Gogoi
 
