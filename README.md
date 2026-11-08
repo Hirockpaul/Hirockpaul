@@ -22,7 +22,7 @@
 
 </div>
 
-<img align="right" width="240" src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=500&h=600&fit=crop&auto=format" alt="Abstract night sky" />
+<img align="right" width="240" src="assets/about-cat.png" alt="White cat looking calmly at the camera" />
 
 I'm a Computer Science and Engineering graduate from Assam, India, interested in the engineering behind dependable software.
 
