@@ -136,12 +136,6 @@ Open-source work on a Rust-based project.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hirockpaul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=79C0FF&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirockpaul&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="GitHub contribution streak" />
 
-## ◈ ACTIVITY GRAPH
-
-<img width="100%" src="https://ghchart.rshah.org/79C0FF/Hirockpaul" alt="Hirock's GitHub contribution calendar" />
-
----
-
 ## ◈ COMMIT ACTIVITY
 
 <picture>
