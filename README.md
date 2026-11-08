@@ -1,7 +1,7 @@
 <!-- Hirockpaul profile README -->
 <div align="center">
 
-<img width="100%" src="assets/hero-banner.jpg" alt="Hirock's monochrome abstract eye and fluid-art profile banner" />
+<img width="100%" src="assets/about-banner.png" alt="Digital and human hands reaching toward each other" />
 
 ### Hi 👋, I'm Hirock Jyoti Gogoi
 
