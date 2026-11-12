@@ -9,7 +9,7 @@
 
 *Building reliable systems with clean architecture, thoughtful engineering, and scalable solutions.*
 
-[GitHub](https://github.com/Hirockpaul) · [Projects](https://github.com/Hirockpaul?tab=repositories)
+[GitHub](https://github.com/Hirockpaul) · [Portfolio](https://my-portfolio-bay-six-78.vercel.app/) · [Projects](https://github.com/Hirockpaul?tab=repositories)
 
 </div>
 
